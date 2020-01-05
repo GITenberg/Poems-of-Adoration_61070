@@ -1,0 +1,26 @@
+_repo: Poems-of-Adoration_61070
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Field, Michael
+    gutenberg_agent_id: '51240'
+    url: http://www.gutenberg.org/2009/agents/51240
+  - agent_name: Bradley, Katherine
+    gutenberg_agent_id: '51241'
+    url: http://www.gutenberg.org/2009/agents/51241
+  - agent_name: Cooper, Emma
+    gutenberg_agent_id: '51242'
+    url: http://www.gutenberg.org/2009/agents/51242
+description: ''
+gutenberg_issued: '2020-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61070'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Poems of Adoration
+url: http://www.gutenberg.org/ebooks/61070
